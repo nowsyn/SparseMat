@@ -1,7 +1,7 @@
 # SparseMat
 Repository for *Ultrahigh Resolution Image/Video Matting with Spatio-Temporal Sparsity*, which has been accepted by CVPR2023.
 
-<img src="figures/framework.png" style="width:640px;" />
+<img src="figures/framework.png" style="width:800px;" />
 
 ### Overview
 
